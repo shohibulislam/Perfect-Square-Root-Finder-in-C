@@ -11,9 +11,9 @@ This is a straightforward C program that determines whether a given integer is a
 
 ## Example
 ```
-Input: 36
-Output: Square root is: 6
+Enter your value: 36
+Square root is: 6
 
-Input: 33
-Output: Is not a perfect square
+Enter your value: 33
+Its not a perfect square!
 ```
