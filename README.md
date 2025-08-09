@@ -10,8 +10,10 @@ This is a straightforward C program that determines whether a given integer is a
 - If no match is found, it tells you the number is not a perfect square.
 
 ## Example
+```
 Input: 36
 Output: Square root is: 6
 
 Input: 33
 Output: Is not a perfect square
+```
