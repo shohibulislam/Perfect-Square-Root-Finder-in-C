@@ -18,8 +18,13 @@ int squareroot(int n){
             printf("Square root is: %d\n",i);
             break;
         }
+        else{
+            printf("Its not a perfect square!");
+            break;
+        }
     }
     if(i>n){
         printf("Its not a perfect square!");
     }
+
 }
